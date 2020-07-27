@@ -1,7 +1,6 @@
 /*
 Rubem José Nobre Bezerra Junior
 Engenharia Elétrica - UFC
-497547
 */
 
 Um algoritmo é uma sequência ordenada de instruções para atingir um objetivo específico.

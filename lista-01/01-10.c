@@ -1,7 +1,6 @@
 /*
 Rubem José Nobre Bezerra Junior
 Engenharia Elétrica - UFC
-497547
 */
 
 #include<stdio.h>
