@@ -1,0 +1,11 @@
+/*
+Rubem José Nobre Bezerra Junior
+Engenharia Elétrica - UFC
+497547
+*/
+
+Um algoritmo é uma sequência ordenada de instruções para atingir um objetivo específico.
+Exemplos:
+    Receita de bolo;
+    Manual de instruções de montagem de um móvel;
+    Código fonte de um programa de computador.
