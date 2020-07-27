@@ -1,6 +1,7 @@
 /*
 Rubem José Nobre Bezerra Junior
 Engenharia Elétrica - UFC
+https://github.com/rubemnobre/atividades-pce
 */
 
 Um algoritmo é uma sequência ordenada de instruções para atingir um objetivo específico.

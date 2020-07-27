@@ -1,6 +1,7 @@
 /*
 Rubem José Nobre Bezerra Junior
 Engenharia Elétrica - UFC
+https://github.com/rubemnobre/atividades-pce
 */
 
 #include<stdio.h>
